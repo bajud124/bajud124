@@ -1,0 +1,240 @@
+﻿
+.* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main1 {
+    background-image: url('images/banner3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+}
+
+    .main1 ul li a {
+        align-content: center;
+        display: flex;
+        justify-content: center;
+        color: #fff;
+    }
+
+ul li {
+    list-style-type: none;
+}
+
+a {
+    margin: 30px;
+}
+
+.btnLogin {
+    background-color: transparent;
+    color: #fff;
+    border: solid;
+}
+
+div nav button {
+    float: right;
+    margin: 40px;
+}
+
+hr {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 3px;
+    opacity: 0.5;
+}
+
+.topheading {
+    color: #fff;
+    text-align: center;
+    margin: 100px;
+    justify-content: center;
+    display: flex;
+    font-size: 48px;
+}
+
+div button {
+    margin: 10px;
+}
+
+div h2 {
+    font-size: 36px;
+    color: deepskyblue;
+}
+
+div h3 {
+    font-size: 25px;
+    color: red;
+}
+
+.location {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+    .location h2 {
+        margin-right: 90px;
+    }
+
+.map {
+    width: auto;
+    height: 20px;
+    margin: auto;
+    margin-right: 3px;
+}
+
+.gmap {
+    width: 100%
+}
+
+.plangap {
+    display: flex;
+}
+
+    .plangap img {
+        border: 1px solid;
+    }
+
+    .plangap h2 {
+        margin: auto;
+        margin-left: 1px;
+    }
+
+.main2 {
+    display: flex;
+}
+
+    .main2 img {
+        height: 20px;
+    }
+
+    .main2 h4 {
+        margin-right: 40px;
+        margin-top: 2px
+    }
+
+#navbrNav {
+    text-align: left;
+}
+
+.form1 {
+    background-color: deepskyblue;
+    margin-top: 20px;
+    color: #fff;
+}
+
+    .form1 a {
+        color: #fff;
+    }
+
+.btnApplyNow {
+    width: 100%;
+    background-color: red;
+}
+
+.hline {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    opacity: 0.5;
+    color: black;
+}
+
+.date {
+    display: flex;
+}
+
+    .date img {
+        background: none;
+    }
+
+#navbarNav {
+    float: left;
+}
+
+.video1 {
+    width: 100%;
+}
+
+.location1 {
+    float: left;
+    display: flex;
+}
+
+    .location1 img {
+        margin: auto;
+    }
+
+.costDuration {
+    border: 1px solid;
+    height: 60px;
+    display: flex;
+    align-content: center;
+    border-color: #95989a;
+}
+
+    .costDuration div {
+        display: flex;
+        margin: 15px;
+    }
+
+        .costDuration div h2 {
+            margin-top: 3px;
+            font-size: 24px;
+            margin-left: 10px;
+            margin-right: 25px;
+        }
+
+        .costDuration div h3 {
+            margin-top: 3px;
+            font-size: 24px;
+            margin-left: 10px;
+            margin-right: 25px;
+        }
+
+.fomr2 {
+    color: #fff;
+}
+
+.cost {
+    border-left: 1px solid;
+    border-color: #95989a;
+}
+
+.whatInclude {
+    color: #000;
+}
+
+    .whatInclude > h4 {
+        background-color: deepskyblue;
+        padding: 10px;
+    }
+
+    .whatInclude img {
+        height: 14px;
+        width: 14px;
+    }
+
+.whatNotInclude {
+    color: #000;
+}
+
+    .whatNotInclude > h4 {
+        background-color: red;
+        padding: 10px;
+    }
+
+    .whatNotInclude img {
+        height: 14px;
+        width: 14px;
+    }
+.feature-detail{
+    margin:auto;
+    margin-top:30px;
+}
